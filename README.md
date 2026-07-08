@@ -20,7 +20,9 @@ Python 3.12 - pandas - numpy - scikit-learn - seaborn - matplotlib
 Create the environment and launch the notebook as follows:
 
 conda env create -f environment.yml
+
 conda activate cachexia-ml
+
 code cachexia_ML.ipynb
 
 The dataset is included.
